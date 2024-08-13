@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(
-    name='requsts',
+    name='jupiter',
     version='0.1.0',
 )
 
