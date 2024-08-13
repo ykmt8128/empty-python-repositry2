@@ -1,4 +1,8 @@
 from setuptools import setup
 
 
-setup()
+etup(
+    name='empty-python-repository',
+    version='0.1.0',
+)
+
