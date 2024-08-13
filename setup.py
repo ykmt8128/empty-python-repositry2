@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(
-    name='empty-python-repository',
+    name='boto2',
     version='0.1.0',
 )
 
